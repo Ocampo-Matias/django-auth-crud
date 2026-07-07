@@ -1,6 +1,6 @@
-# TaskFlow
+# Django Tasks CRUD (Django Auth CRUD)
 
-Aplicación web de gestión de tareas con autenticación de usuarios, CRUD completo y una interfaz sencilla para organizar trabajo diario. Este proyecto fue desarrollado como una demo práctica de Django para mostrar flujo MVT, autenticación, formularios y manejo de datos en una app funcional.
+Una aplicación web de gestión de tareas con sistema de autenticación de usuarios integrado. Este es un proyecto educativo desarrollado como parte del proceso de aprendizaje siguiendo el curso práctico de Django impartido por **Fazt Code** en YouTube. Su finalidad es consolidar e implementar de forma guiada conocimientos fundamentales de desarrollo backend, base de datos relacionales y configuración de despliegue.
 
 ---
 
