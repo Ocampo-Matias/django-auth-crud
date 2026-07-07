@@ -1,6 +1,6 @@
-# Django Tasks CRUD (Django Auth CRUD)
+# TaskFlow
 
-Una aplicación web de gestión de tareas con sistema de autenticación de usuarios integrado. Este es un proyecto educativo desarrollado como parte del proceso de aprendizaje siguiendo el curso práctico de Django impartido por **Fazt Code** en YouTube. Su finalidad es consolidar e implementar de forma guiada conocimientos fundamentales de desarrollo backend, base de datos relacionales y configuración de despliegue.
+Aplicación web de gestión de tareas con autenticación de usuarios, CRUD completo y una interfaz sencilla para organizar trabajo diario. Este proyecto fue desarrollado como una demo práctica de Django para mostrar flujo MVT, autenticación, formularios y manejo de datos en una app funcional.
 
 ---
 
@@ -24,13 +24,15 @@ Una aplicación web de gestión de tareas con sistema de autenticación de usuar
 
 ---
 
-## 📸 Capturas de Pantalla (Placeholder)
+## 📸 Capturas de Pantalla
 
-*Próximamente se añadirán capturas de pantalla de la interfaz de usuario en funcionamiento.*
+Estas capturas muestran la experiencia principal de la aplicación: inicio, login, listado de tareas y creación de tareas.
 
-| Vista de Inicio | Panel de Tareas | Crear / Editar Tarea |
-|:---:|:---:|:---:|
-| ![Inicio / Bienvenida](https://via.placeholder.com/400x250?text=Vista+de+Inicio) | ![Lista de Tareas](https://via.placeholder.com/400x250?text=Panel+de+Tareas+Pendientes) | ![Formulario Tarea](https://via.placeholder.com/400x250?text=Crear/Editar+Tarea) |
+| Vista de Inicio | Inicio de Sesión | Lista de Tareas | Crear Tarea |
+|:---:|:---:|:---:|:---:|
+| ![Inicio / Bienvenida](docs/screenshots/home.png) | ![Inicio de Sesión](docs/screenshots/inicio_de_sesion.png) | ![Lista de Tareas](docs/screenshots/Lista_De_Tareas.png) | ![Crear Tarea](docs/screenshots/Creacion_de_tarea.png) |
+
+Con estas imágenes ya queda una presentación más completa para GitHub y para un portafolio.
 
 ---
 
